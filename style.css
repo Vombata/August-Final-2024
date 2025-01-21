@@ -1,4 +1,5 @@
 body {
     padding:50px;
-    background-blend-mode: color-burn;
+    background: #e5e7eb;
+    background-blend-mode: color;
 }
